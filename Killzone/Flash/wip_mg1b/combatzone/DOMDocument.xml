@@ -1,0 +1,45 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1024" height="768" frameRate="30" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" vanishingPoint3DX="512" vanishingPoint3DY="384" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveIntervalMinutes="5">
+     <symbols>
+          <Include href="enemy.xml" itemID="50bf5d9e-000001f0" lastModified="1355929327"/>
+          <Include href="player.xml" itemID="50b62c9c-0000003c" lastModified="1355929324"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="DebugMovieChecked" v="FlashPro"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="2577" publishTime="1355935853"/>
+          <PublishItem publishSize="2511" publishTime="1355935303"/>
+          <PublishItem publishSize="2502" publishTime="1355935226"/>
+          <PublishItem publishSize="2503" publishTime="1355935206"/>
+          <PublishItem publishSize="2476" publishTime="1355935101"/>
+          <PublishItem publishSize="2472" publishTime="1355935051"/>
+          <PublishItem publishSize="2479" publishTime="1355934729"/>
+          <PublishItem publishSize="2492" publishTime="1355934717"/>
+          <PublishItem publishSize="2264" publishTime="1355934279"/>
+          <PublishItem publishSize="2263" publishTime="1355933551"/>
+          <PublishItem publishSize="814" publishTime="1355933393"/>
+          <PublishItem publishSize="2197" publishTime="1355932896"/>
+          <PublishItem publishSize="2196" publishTime="1355932891"/>
+          <PublishItem publishSize="2196" publishTime="1355932887"/>
+          <PublishItem publishSize="2196" publishTime="1355932884"/>
+          <PublishItem publishSize="2200" publishTime="1355932797"/>
+          <PublishItem publishSize="2200" publishTime="1355932794"/>
+          <PublishItem publishSize="2200" publishTime="1355932791"/>
+          <PublishItem publishSize="2199" publishTime="1355932787"/>
+          <PublishItem publishSize="2192" publishTime="1355932727"/>
+     </publishHistory>
+</DOMDocument>

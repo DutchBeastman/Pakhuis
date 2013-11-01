@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="enemy" itemID="50bf5d9e-000001f0" linkageExportForAS="true" linkageClassName="EnemyArt" lastModified="1355929327">
+  <timeline>
+    <DOMTimeline name="enemy">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="1"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF00FF" alpha="0.976470588235294"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="24.5">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!690 39S6[689 324 486 526!486 526[283 730 -5 730!-5 730[-293 730 -497 526!-497 526[-700 323 -700 35!-700 35[-700 -253 -497 -457!-497 -457[-293 -660 -5 -660!-5 -660[283 -660 486 -457!486 -457[690 -253 690 35!690 35[690 37 690 39"/>
+                    <Edge strokeStyle="1" edges="!690 39S4|1940 39"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
